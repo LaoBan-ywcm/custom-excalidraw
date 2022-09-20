@@ -677,6 +677,21 @@ export const actionChangeFontFamily = register({
         text: t("labels.code"),
         icon: <FontFamilyCodeIcon theme={appState.theme} />,
       },
+      {
+        value: FONT_FAMILY.my,
+        text: t("labels.code"),
+        icon: <FontFamilyCodeIcon theme={appState.theme} />,
+      },
+      {
+        value: FONT_FAMILY.my2,
+        text: t("labels.code"),
+        icon: <FontFamilyCodeIcon theme={appState.theme} />,
+      },
+      {
+        value: FONT_FAMILY.my3,
+        text: t("labels.code"),
+        icon: <FontFamilyCodeIcon theme={appState.theme} />,
+      },
     ];
 
     return (

@@ -70,6 +70,9 @@ export const FONT_FAMILY = {
   Virgil: 1,
   Helvetica: 2,
   Cascadia: 3,
+  my: 4,
+  my2: 5,
+  my3: 6,
 };
 
 export const THEME = {

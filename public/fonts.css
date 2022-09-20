@@ -11,3 +11,21 @@
   src: url("Cascadia.woff2");
   font-display: swap;
 }
+
+@font-face {
+  font-family: "my";
+  src: url("my.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "my2";
+  src: url("my2.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "my3";
+  src: url("my3.ttf");
+  font-display: swap;
+}
